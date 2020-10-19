@@ -102,11 +102,8 @@ To run this application:
 
 ## Questions?
 
-  *For any questions about this application, please contact me via the information below:*
-
-  * **GitHub:** 
-  
-  * **Email:** 
+  If you have any questions you can check out my github account: [Rseckman](https://github.com/Rseckman)
+  or contact me at rseckman@hotmail.com
 
 ---
   <br>
